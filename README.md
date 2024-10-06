@@ -58,24 +58,19 @@ python inference.py
 
 1. Video Call:
 Join the room + sign recognition + chat + view supported poses:
-![Video Call](https://github.com/tranganhthuan/SignLanguageVideoCall/blob/main/assets/video_call.mp4)
+![](https://github.com/user-attachments/assets/fdb84fcb-56cf-4b8f-a9fd-254e04cf6049)
 
 Turn on/off video/audio/pose tracking visualization:
-![Video Call 2](https://github.com/tranganhthuan/SignLanguageVideoCall/blob/main/assets/video_feature.mp4)
+![](https://github.com/user-attachments/assets/43a03089-0f62-435f-8a57-0018c0e26ad1)
 
 2. Collect Data: 
 Collect your own data + view your recorded pose before saving + manage data folders + view your collected data:
-![Collect Data](https://github.com/tranganhthuan/SignLanguageVideoCall/blob/main/assets/collect_data.mp4)
+![](https://github.com/user-attachments/assets/bd85600b-28f1-48fd-a33f-27f9b7dd7e5d)
 
 3. Train Model:
 Train your own model + view training loss + view your model's performance on test data:
-![Train Model](https://github.com/tranganhthuan/SignLanguageVideoCall/blob/main/assets/train_model.mp4)
+![](https://github.com/user-attachments/assets/32ea6386-8a16-40d2-a0d1-3374e45cb7b5)
 
 4. Test Model:
 Test your model + view the translation of hand gestures in real-time:
-![Test Model](https://github.com/tranganhthuan/SignLanguageVideoCall/blob/main/assets/inference.mp4)
-
-
-
-
-
+![](https://github.com/user-attachments/assets/4f50cb54-7778-4704-a157-dca5a81dbad6)
